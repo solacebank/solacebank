@@ -25,4 +25,4 @@
 ### Let's Connect!
 
 - 📧 [Email](mailto:teresa@roywalkerpllc.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/teresa-at-aseret])
+- 💼 [LinkedIn](https://www.linkedin.com/in/teresa-at-aseret)
