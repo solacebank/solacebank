@@ -1,16 +1,28 @@
-## Hi there 👋
+### Teresa Lopez
 
-<!--
-**solacebank/solacebank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏦 Experienced professional in Mortgage and Backend Lending
+- 💼 Owner of Asert Mortgage Bank & Solace Bank Group
+- 🔒 Bank Officer at OMDN | Compliance Officer at Elemental Imperium
+- ⚖️ Aspiring Lawyer | Junior Partner at Roy Walker Law Syndicate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Financial Services:** Mortgage Lending, Backend Lending, Compliance, Risk Management
+- **Banking:** Central Banking, Digital Currency, Blockchain Technology
+- **Legal:** Financial Regulations, Contract Law, Corporate Law
+- **Technology:** Smart Contracts, Ethereum, Polygon, Defi Oracle Meta Mainnet
+
+### Projects
+
+- **Elemental Imperium**: Compliance and operational integrity for a global financial network.
+- **Asert Mortgage Bank**: Innovative mortgage solutions and backend lending services.
+- **Roy Walker Law Syndicate**: Legal services focusing on financial regulations and corporate law.
+
+---
+
+### Let's Connect!
+
+- 📧 [Email](mailto:teresalopez@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/teresalopez)
