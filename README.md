@@ -24,5 +24,5 @@
 
 ### Let's Connect!
 
-- 📧 [Email](mailto:teresalopez@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/teresalopez)
+- 📧 [Email](mailto:teresa@roywalkerpllc.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/teresa-at-aseret])
